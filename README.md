@@ -5,7 +5,7 @@
 **CSE Undergraduate | Data Enthusiast | Aspiring Analyst**
 
 <p align="center"
-  <a href="https://instagram.com/_._r1sh1_._?igsh=dnN2eTVlYWdmcThy"><img src="https://img.shields.io/badge/Instagram-black?style=flat&logo=Instagram&logoColor=white&labelColor=black&color=black">
+  <a href="https://www.instagram.com/_._r1sh1_._/?igsh=dnN2eTVlYWdmcThy"><img src="https://img.shields.io/badge/Instagram-black?style=flat&logo=Instagram&logoColor=white&labelColor=black&color=black">
   <a href="https://wa.me/qr/I6L44H3NVRVXP1"><img src="https://img.shields.io/badge/whatsapp-black?style=flat&logo=whatsapp&logoColor=white&labelColor=black&color=black">
 </p>
 
