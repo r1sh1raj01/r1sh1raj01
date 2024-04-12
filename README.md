@@ -17,9 +17,7 @@ My current focus lies in mastering essential tools like Python, SQL, Excel, and 
 <br>
 I'm always open to connecting with fellow data enthusiasts, collaborators, and anyone passionate about technology. Feel free to reach out!
 <br><br>
-<div class="link-container">
-    <a href="duttaraj327@gmail.com">Gmail</a>
-</div>
+<a href="https://mail.google.com/" style="background-color: #BB001B; color: white; padding: 10px; margin: 5px; text-decoration: none; border-radius: 5px;">Gmail</a>
 <div class="link-container">
     <a href="www.linkedin.com/in/raj-ballav-dutta-00242a303">LinkedIn</a>
 </div>
