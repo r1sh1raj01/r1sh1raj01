@@ -17,8 +17,8 @@ My current focus lies in mastering essential tools like Python, SQL, Excel, and 
 I'm always open to connecting with fellow data enthusiasts, collaborators, and anyone passionate about technology. Feel free to reach out!
 <br><br>
 <p align="center">
-  <a href="mailto:duttaraj327@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&labelColor=red&color=red"></a>
-  <a href="https://www.linkedin.com/in/raj-ballav-dutta-00242a303" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue"></a>
+  <a href="mailto:duttaraj327@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&labelColor=blaack&color=black"></a>
+  <a href="https://www.linkedin.com/in/raj-ballav-dutta-00242a303" target="_blank"><img src="https://img.shields.io/badge/linkedin-black?style=flat&logo=linkedin&logoColor=white&labelColor=black&color=black"></a>
   <a href="https://twitter.com/raj_b_dutta" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=X&logoColor=white&labelColor=black&color=black"></a>
   <a href="https://wa.me/qr/I6L44H3NVRVXP1"><img src="https://img.shields.io/badge/whatsapp-black?style=flat&logo=whatsapp&logoColor=white&labelColor=black&color=black"></a>
   <a href="https://www.instagram.com/_._r1sh1_._?igsh=dnN2eTVlYWdmcThy"><img src="https://img.shields.io/badge/instagram-black?style=flat&logo=instagram&logoColor=white&labelColor=black&color=black"></a>
