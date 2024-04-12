@@ -17,15 +17,9 @@ My current focus lies in mastering essential tools like Python, SQL, Excel, and 
 <br>
 I'm always open to connecting with fellow data enthusiasts, collaborators, and anyone passionate about technology. Feel free to reach out!
 <br><br>
-<a href="duttaraj327@gmail.com" img src="" style="background-color: red; color: white; padding: 10px; margin: 5px; text-decoration: none; border-radius: 5px;">Gmail</a>
-<a href="www.linkedin.com/in/raj-ballav-dutta-00242a303" img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" style="background-color: blue; color: white; padding: 10px; margin: 5px; text-decoration: none; border-radius: 5px;">LinkedIn</a>
-<div class="link-container">
-    <a href="www.linkedin.com/in/raj-ballav-dutta-00242a303">LinkedIn</a>
-</div>
-<div class="link-container">
-    <a href="www.x.com/raj_b_dutta?t=">X</a>
-</div>
-
+[<img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="LinkedIn" style="width: 100px; height: 30px;">](www.linkedin.com/in/raj-ballav-dutta-00242a303) 
+<br>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" alt="X" align="center" style="width: 30px; height: 30px;">](www.x.com/raj_b_dutta?t=)
 <br>
 <hr style="border: 2px solid black;"> 
 
