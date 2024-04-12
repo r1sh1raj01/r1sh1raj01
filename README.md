@@ -4,6 +4,8 @@
 
 **CSE Undergraduate | Data Enthusiast | Aspiring Analyst**
 
+<p align="center"
+<a href=" <img src="https://img.shields.io/badge/Instagram-black?style=flat&logo=Instagram&logoColor=white&labelColor=black&color=black"
 
 **About Me**
 <br>
@@ -22,7 +24,6 @@ I'm always open to connecting with fellow data enthusiasts, collaborators, and a
   <a href="https://twitter.com/raj_b_dutta" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=X&logoColor=white&labelColor=black&color=black"></a>
   <a href="https://www.linkedin.com/in/raj-ballav-dutta-00242a303" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue"></a>
 </p>
-<br>
 <hr style="border: 1px solid black;"> 
 
 <p align="center">Check out my repositories below! 👇</p>
