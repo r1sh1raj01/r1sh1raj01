@@ -26,24 +26,6 @@ I'm always open to connecting with fellow data enthusiasts, collaborators, and a
     <a href="www.x.com/raj_b_dutta?t=">X</a>
 </div>
 
-.link-container {
-    display: inline-block;
-    background-color: #your_color; /* Set desired background color */
-    padding: 10px;
-    margin: 5px;
-    border-radius: 5px; /* Optional for rounded corners */
-}
-
-.link-container a {
-    color: white; /* Set desired text color */
-    text-decoration: none; /* Remove underlines */
-    font-family: sans-serif; /* Set desired font */
-}
-
-/* Optional hover effect */
-.link-container a:hover {
-    background-color: #another_color; /* Change background on hover */
-}
 <br>
 <hr style="border: 2px solid black;"> 
 
