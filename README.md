@@ -16,7 +16,7 @@ My current focus lies in mastering essential tools like Python, SQL, Excel, and 
 <br>
 I'm always open to connecting with fellow data enthusiasts, collaborators, and anyone passionate about technology. Feel free to reach out!
 <br><br>
-[![LinkedIn]<img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="LinkedIn" style="width: 20px; height: auto;">](www.linkedin.com/in/raj-ballav-dutta-00242a303)
+[(<img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="LinkedIn" style="width: 20px; height: auto;">)](www.linkedin.com/in/raj-ballav-dutta-00242a303)
 <br>
 [![X](<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" alt="Twitter" style="width: 20px; height: auto;">)](www.x.com/raj_b_dutta?t=)
 <br>
