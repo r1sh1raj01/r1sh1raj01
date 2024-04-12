@@ -1,4 +1,4 @@
-![image](https://github.com/r1sh1raj01/r1sh1raj01/assets/110759323/0b03d17f-7e84-4b3e-81c8-7fdebcf0b9f4)### Hi there 👋. Myself Raj Ballav Dutta
+### Hi there 👋. Myself Raj Ballav Dutta ###
 ___
 **CSE Undergraduate | Data Enthusiast | Aspiring Analyst**
 
