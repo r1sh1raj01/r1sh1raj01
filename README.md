@@ -20,8 +20,7 @@ I'm always open to connecting with fellow data enthusiasts, collaborators, and a
 <p align="center">
   <a href="mailto:duttaraj327@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://twitter.com/raj_b_dutta" target="_blank"><img src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=X&logoColor=white&backgroundColor=black"></a>
-  <a href="www.linkedin.com/in/raj-ballav-dutta-00242a303" target="_blank"><img src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=LinkedIn&logoColor=blue
-"></a>
+  <a href="www.linkedin.com/in/raj-ballav-dutta-00242a303" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=LinkedIn&logoColor=blue"></a>
 </p>
 
 
