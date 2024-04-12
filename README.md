@@ -18,9 +18,9 @@ My current focus lies in mastering essential tools like Python, SQL, Excel, and 
 I'm always open to connecting with fellow data enthusiasts, collaborators, and anyone passionate about technology. Feel free to reach out!
 <br><br>
 <p align="center">
-  <a href="mailto:duttaraj327@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/raj_b_dutta" target="_blank"><img src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=X&logoColor=white&backgroundColor=black"></a>
-  <a href="www.linkedin.com/in/raj-ballav-dutta-00242a303" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=LinkedIn&logoColor=blue"></a>
+  <a href="mailto:duttaraj327@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&labelColor=red&color=red"></a>
+  <a href="https://twitter.com/raj_b_dutta" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=X&logoColor=white&labelColor=black&color=black"></a>
+  <a href="www.linkedin.com/in/raj-ballav-dutta-00242a303" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue"></a>
 </p>
 
 
