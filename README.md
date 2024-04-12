@@ -17,9 +17,34 @@ My current focus lies in mastering essential tools like Python, SQL, Excel, and 
 <br>
 I'm always open to connecting with fellow data enthusiasts, collaborators, and anyone passionate about technology. Feel free to reach out!
 <br><br>
-[<img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="LinkedIn" style="width: 100px; height: 30px;">](www.linkedin.com/in/raj-ballav-dutta-00242a303)
-<br>
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" alt="X" align="center" style="width: 30px; height: 30px;">](www.x.com/raj_b_dutta?t=)
+<div class="link-container">
+    <a href="duttaraj327@gmail.com">Gmail</a>
+</div>
+<div class="link-container">
+    <a href="www.linkedin.com/in/raj-ballav-dutta-00242a303">LinkedIn</a>
+</div>
+<div class="link-container">
+    <a href="www.x.com/raj_b_dutta?t=">X</a>
+</div>
+
+.link-container {
+    display: inline-block;
+    background-color: #your_color; /* Set desired background color */
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px; /* Optional for rounded corners */
+}
+
+.link-container a {
+    color: white; /* Set desired text color */
+    text-decoration: none; /* Remove underlines */
+    font-family: sans-serif; /* Set desired font */
+}
+
+/* Optional hover effect */
+.link-container a:hover {
+    background-color: #another_color; /* Change background on hover */
+}
 <br>
 <hr style="border: 2px solid black;"> 
 
