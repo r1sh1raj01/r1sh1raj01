@@ -19,8 +19,8 @@ I'm always open to connecting with fellow data enthusiasts, collaborators, and a
 <br><br>
 <p align="center">
   <a href="mailto:duttaraj327@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://twitter.com/raj_b_dutta" target="_blank"><img src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
-  <a href="www.linkedin.com/in/raj-ballav-dutta-00242a303" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/raj_b_dutta" target="_blank"><img src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="X"></a>
+  <a href="www.linkedin.com/in/raj-ballav-dutta-00242a303" target="_blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="LinkedIn" style="width: 100px; height: 30px;" alt="LinkedIn"></a>
 </p>
 [<img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="LinkedIn" style="width: 100px; height: 30px;">](www.linkedin.com/in/raj-ballav-dutta-00242a303) 
 <br>
