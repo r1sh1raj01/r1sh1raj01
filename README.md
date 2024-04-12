@@ -1,6 +1,6 @@
 ### Hi there 👋. Myself Raj Ballav Dutta ###
 
-<hr>
+<hr style="border: 2px solid black;"> 
 
 **CSE Undergraduate | Data Enthusiast | Aspiring Analyst**
 
@@ -16,12 +16,11 @@ My current focus lies in mastering essential tools like Python, SQL, Excel, and 
 <br>
 I'm always open to connecting with fellow data enthusiasts, collaborators, and anyone passionate about technology. Feel free to reach out!
 <br><br>
-[![LinkedIn](https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png)](www.linkedin.com/in/raj-ballav-dutta-00242a303)
+[![LinkedIn](<img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="LinkedIn" style="width: 20px; height: auto;">)](www.linkedin.com/in/raj-ballav-dutta-00242a303)
 <br>
-[![X](https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png)](www.x.com/raj_b_dutta?t=)
+[![X](<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" alt="Twitter" style="width: 20px; height: auto;">)](www.x.com/raj_b_dutta?t=)
 <br>
-
-<hr>
+<hr style="border: 2px solid black;"> 
 
 
 
