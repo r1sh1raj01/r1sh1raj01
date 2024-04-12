@@ -25,7 +25,7 @@ I'm always open to connecting with fellow data enthusiasts, collaborators, and a
 <br>
 <hr style="border: 1px solid black;"> 
 
-<p align="center">**Check out my repositories below!**</p>
+<p align="center">Check out my repositories below! 👇</p>
 
 
 <!--
