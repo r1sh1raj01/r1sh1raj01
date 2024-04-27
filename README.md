@@ -1,9 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=r1sh1raj)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Hi there!👋 Myself Raj Ballav Dutta
-
 <hr style="border: 2px solid black;"> 
-
 **CSE Undergraduate | Data Enthusiast | Aspiring Analyst**
 
 **About Me**
