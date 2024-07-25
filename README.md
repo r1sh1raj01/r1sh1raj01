@@ -1,6 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=r1sh1raj)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Hi there!👋 Myself Raj Ballav Dutta
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=5643F7&duration=4000&lines=Hi+There!+👋;+I'm+Raj+Ballav+Dutta!;" />
+</h1>
 **CSE Undergraduate | Data Enthusiast | Aspiring Analyst**
 
 **About Me**
