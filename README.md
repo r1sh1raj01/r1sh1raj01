@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=r1sh1raj)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=5643F7&duration=4000&lines=Hi+There!+👋;+I'm+Raj+Ballav+Dutta!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=FFFFFF&duration=6000&lines=Hi+There!+👋;+I'm+Raj+Ballav+Dutta!;" />
 </h1>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=1000&height=70&color=FFFFFF&duration=8000&lines=CSE+Undergraduate+|+Full-Stack+Web+Developer+|+Aspiring+Data+Analyst;" />
 <br><br>
