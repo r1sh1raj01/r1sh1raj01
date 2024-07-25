@@ -3,8 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=5643F7&duration=4000&lines=Hi+There!+👋;+I'm+Raj+Ballav+Dutta!;" />
 </h1>
-**CSE Undergraduate | Full-Stack Web Developer | Aspiring Data Analyst**
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=5643F7&duration=4000&lines=CSE+Undergraduate+👋;+Full-Stack+Web+Developer;+Aspiring+Data+Analyst;" />
 <br><br>
 
 **About Me**
